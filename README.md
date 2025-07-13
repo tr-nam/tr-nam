@@ -18,9 +18,9 @@
 
 - 🌍 From: Hà Tĩnh, Vietnam
 - 🏠 Currently living in: Ho Chi Minh City, Vietnam
-- 🎓 Education: Trường THPT Lý Tự Trọng - Hà Tĩnh
+- 🎓 Education: ...
 - 💼 Web Developer specializing in modern web technologies
-- 🌐 Personal Website: [wvutran.id.vn](https://wvutran.id.vn/)
+- 🌐 Personal Website: [namtran.dev](https://wvutran.id.vn/)
 
 ---
 
