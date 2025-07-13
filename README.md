@@ -43,13 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
 </p>
 
----
 
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tr-nam&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
 
 ---
 
