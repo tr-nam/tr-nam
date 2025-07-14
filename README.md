@@ -57,9 +57,10 @@
 
  ### 🐍 Snake Eating My Contributions
 <p align="center">
-
-![github contribution snake animation](https://github.com/tr-nam/tr-nam/blob/output/github-snake.svg)
-
-![github contribution snake animation](https://github.com/tr-nam/tr-nam/blob/output/github-snake-dark.svg?palette=github-dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tr-nam/tr-nam/blob/output/github-snake-dark.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tr-nam/tr-nam/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </p>
