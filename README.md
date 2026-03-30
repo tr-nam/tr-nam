@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Portfolio-namtr.dev-blue?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:tr.namm29@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-tr.namm29@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-contact@namtr.dev-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/nam.tr29/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-namtr.dev-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
