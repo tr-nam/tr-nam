@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://namtr.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-wvutran.id.vn-blue?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-namtr.dev-blue?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:tr.namm29@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-tr.namm29@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/nam.tr29/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-nam.tr29-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-namtr.dev-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
