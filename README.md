@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Y Nam</h1>
 
 <p align="center">
-  <a href="https://wvutran.id.vn" target="_blank">
+  <a href="https://namtr.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-wvutran.id.vn-blue?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:tr.namm29@gmail.com" target="_blank">
@@ -20,7 +20,7 @@
 - 🏠 Currently living in: Ho Chi Minh City, Vietnam
 - 🎓 Education: ...
 - 💼 Web Developer specializing in modern web technologies
-- 🌐 Personal Website: [namtran.dev](https://wvutran.id.vn/)
+- 🌐 Personal Website: [namtr.dev](https://namtr.dev)
 
 ---
 
@@ -50,8 +50,8 @@
 ### 🔗 Connect with Me
 
 - 📧 Email: [tr.namm29@gmail.com](mailto:tr.namm29@gmail.com)
-- 🌐 Website: [wvutran.id.vn](https://wvutran.id.vn/)
-- 📘 Facebook: [nam.tr29](https://www.facebook.com/nam.tr29/)
+- 🌐 Website: [namtr.dev](https://namtr.dev)
+- 📘 Facebook: [namtr.dev](https://www.facebook.com/namtr.dev)
 
 ---
 
